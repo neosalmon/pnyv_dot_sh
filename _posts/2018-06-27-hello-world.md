@@ -9,7 +9,7 @@ layout: post
 
 Hi there- I'm an Engineering student majoring in Computer Science.
 
-I'm also a UI / UX designer in Chandigarh, India. Right now, I function as the UI / UX Lead over at [LearnAnything](https://learn-anything.xyz). In addition, I contribute articles to the [XDA Developers Portal](https://xda-developers.com/author/punya-vashist) and [Hackernoon](https://hackernoon.com/@punyavashist).
+I'm also a UI / UX designer from Chandigarh, India. Right now, I function as the UI / UX Lead over at [LearnAnything](https://learn-anything.xyz). In addition, I contribute articles to the [XDA Developers Portal](https://xda-developers.com/author/punya-vashist) and [Hackernoon](https://hackernoon.com/@punyavashist).
 
 More than my passion for UI / UX and code is my passion to learn, constantly. If not churning up articles or working on new features, you'd generally find me learning new programming languages or trying to master design tools.
 
