@@ -2,6 +2,7 @@
 title: Hello, world!
 date: 2018-06-27
 type: serious
+layout: post
 ---
 
 ## Hi there- I'm Punya.
