@@ -1,0 +1,56 @@
+h1 {
+  font-size: 20px;
+}
+
+em {
+  color: #666;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.3em;
+  margin-bottom: 25px;
+
+  &:last-child {
+    margin-bottom: 10px;
+  }
+}
+
+blockquote {
+  margin-left: 0px;
+  border-left: 3px solid palevioletred;
+  padding-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+a {
+  color: rgb(0, 0, 238);
+}
+
+img {
+  max-width: 100%;
+}
+
+.highlight {
+  padding: 20px;
+}
+
+.no-serious {
+  .serious {
+    display: none;
+  }
+}
+
+// no joke mate!
+.no-joke {
+  .joke {
+    display: none;
+  }
+}
+
+.no-audio {
+  .audio {
+    display: none;
+  }
+}

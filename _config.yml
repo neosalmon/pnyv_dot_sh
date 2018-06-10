@@ -1,0 +1,33 @@
+
+title: The Creative Musings of Punya
+email: pnyvsh@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Punya's creative musings.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pnyv.sh"
+twitter_username: pnyvsh
+github_username:  pnyvsh
+author: Punya
+
+permalink: /post/:title/
+
+highlighter: rouge
+
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
