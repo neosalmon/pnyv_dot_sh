@@ -1,29 +1,13 @@
-languageCode = "en-us"
-title = "pnyv dot sh"
 baseURL = "/"
-theme = "darktheme"
-SectionPagesMenu = "main"
-
+languageCode = "en-us"
+theme = "tim"
 [params]
-    description = "a designer's opinionated series of posts."
-    show_menu = true
-    powered_by = false
-    theme_variant = "hack light"
-
-[[menu.main]]
-    name = "Home"
-    weight = 1
-    identifier = "home"
-    url = "/"
-
-[[menu.main]]
-    name = "About"
-    weight = 2
-    identifier = "about"
-    url = "/about"
-    
-[[menu.main]]
-    name = "Inspiration"
-    wight = 4
-    identified = "instagram"
-    url = "https://instagram.com/pnyvsh"
+  description = "The creative musings of pnyvsh."
+  subtitle = "The Creative Musings of"
+  author = "Punya"
+  bio = "I'm a UI / UX Designer with a passion for code and copy-editing."
+  twitter = "pnyvsh"
+  github = "pnyvsh"
+  email = "pnyvsh@gmail.com"
+ # cv = "/CV.pdf"
+title = "The Creative Musings of Punya"
