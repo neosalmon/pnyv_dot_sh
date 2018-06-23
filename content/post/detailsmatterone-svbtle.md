@@ -5,7 +5,7 @@ date: 2018-06-25
 ---
 ## Details Matter 001: Svtble
 -------------------------------
-Before settling on a configuration utilizing Hugo and Netlify in order to serve this site up to you readers, I admittedly hopped around on my blog-wagon, jumping from one platform to the other- be it WordPress, Ghost, Jekyll, Grav, Postach.io or even the likes of Squarespace, Wix and Webflow.
+-> Before settling on a configuration utilizing Hugo and Netlify in order to serve this site up to you readers, I admittedly hopped around on my blog-wagon, jumping from one platform to the other- be it WordPress, Ghost, Jekyll, Grav, Postach.io or even the likes of Squarespace, Wix and Webflow.
 
 During my "tours," I stumbled across a rather eye-catching platform- (you guessed it) Svbtle. The reason I choose to write this first post dedicated to Svbtle's inconsistencies in the UI / UX decisions is because had Svbtle accepted Debit Cards, you would've been looking at a Svbtle blog. I genuinely liked the platform's generated blogs. The Homepage of the platform's descriptive itself? Not so much.
 
