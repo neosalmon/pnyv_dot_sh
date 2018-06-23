@@ -8,7 +8,7 @@ SectionPagesMenu = "main"
     description = "a designer's opinionated series of posts."
     show_menu = true
     powered_by = false
-    theme_variant = "hack dark"
+    theme_variant = "hack light"
 
 [[menu.main]]
     name = "Home"
