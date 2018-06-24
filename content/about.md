@@ -1,5 +1,5 @@
 ---
-title: "About page will be up soon"
+title: "Hi there-About page will be up soon"
 date: 2018-02-13T13:42:49-05:00
 ---
 <!--![GIF by [Tomas Brunsdon](https://giphy.com/tomasbrunsdon)](https://media2.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
