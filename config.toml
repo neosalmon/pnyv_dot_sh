@@ -21,12 +21,6 @@ SectionPagesMenu = "main"
     weight = 2
     identifier = "about"
     url = "/about"
-
-[[menu.main]]
-    name = "Code"
-    wight = 4
-    identified = "github"
-    url = "https://github.com/pnyvsh"
     
 [[menu.main]]
     name = "Inspiration"
