@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pnyv dot sh</title>
-    <link>/</link>
-    <description>Recent content on pnyv dot sh</description>
+    <title>Posts on pnyv dot sh</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on pnyv dot sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Jun 2018 02:52:50 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>/post/demopost/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hi there- I&#39;m pnyvsh.</title>
-      <link>/about/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Ohai. I&amp;rsquo;m Punya and I&amp;rsquo;m an Engineering student majoring in Computer Science.
-I&amp;rsquo;m also a UI / UX designer in Chandigarh, India. Right now, I function as the UI / UX Lead over at LearnAnything. In addition, I contribute articles to the XDA Developers Portal and Hackernoon.
-More than my passion for UI / UX and code is my passion to learn, constantly. If not churning up articles or working on new features, you&amp;rsquo;d generally find me learning new programming languages or trying to master design tools.</description>
     </item>
     
     <item>

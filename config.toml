@@ -1,4 +1,17 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
+title = "pnyv dot sh"
+baseURL = "/"
 theme = "darktheme"
-title = "My New Hugo Site"
+SectionPagesMenu = "main"
+
+[params]
+    description = "a designer's opinionated series of posts."
+    show_menu = true
+    powered_by = false
+    theme_variant = "hack dark"
+
+[[menu.main]]
+    name = "About"
+    weight = 2
+    identifier = "about"
+    url = "/about"
