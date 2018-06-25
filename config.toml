@@ -11,7 +11,25 @@ SectionPagesMenu = "main"
     theme_variant = "hack dark"
 
 [[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
     name = "About"
     weight = 2
     identifier = "about"
     url = "/about"
+
+[[menu.main]]
+    name = "Code"
+    wight = 4
+    identified = "github"
+    url = "https://github.com/pnyvsh"
+    
+[[menu.main]]
+    name = "Inspiration"
+    wight = 4
+    identified = "instagram"
+    url = "https://instagram.com/pnyvsh"
