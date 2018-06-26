@@ -1,0 +1,21 @@
+---
+title: Hello, world!
+date: 2018-06-27
+type: serious
+---
+
+## Hi there- I'm Punya.
+
+I'm an Engineering student majoring in Computer Science.
+
+I'm also a UI / UX designer in Chandigarh, India. Right now, I function as the UI / UX Lead over at [LearnAnything](https://learn-anything.xyz). In addition, I contribute articles to the [XDA Developers Portal](https://xda-developers.com/author/punya-vashist) and [Hackernoon](https://hackernoon.com/@punyavashist).
+
+More than my passion for UI / UX and code is my passion to learn, constantly. If not churning up articles or working on new features, you'd generally find me learning new programming languages or trying to master design tools.
+
+I own a OnePlus 5- on which I use OxygenOS, a Lenovo X220 Thinkpad- on which I use Fedora and a 2017 Macbook Pro- on which I use macOS.
+
+I do most of my design work in Figma and write most of my code in Visual Studio Code.
+
+Most of my hobbies come and go but I've never stopped playing the guitar and drums. 
+
+I like creating and contributing to new projects, especially ones that tend to delve into catering to the FOSS community- let's have a chat on [Telegram](https://t.co/crptck) and build products together. Alternatively, you can find me on [Twitter](https://t.me/punyavashist), [Instagram](https://instagram.com/punyavashist), [Github](https://github.com/punyavashist) and Discord (punya#0771). Or you can just send me a mail by clicking on this link that unexpecteadly opens the Mail Client you've never used- [punyavashist at pm dot me](mailto:punyavashist@pm.me).
